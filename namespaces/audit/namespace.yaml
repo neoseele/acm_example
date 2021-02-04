@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: audit
   annotations:
-    configsync.gke.io/cluster-name-selector: c2
+    configsync.gke.io/cluster-name-selector: c1
